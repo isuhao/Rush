@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  RushTestWorld.cpp
+i:\my documents\school\new sfwr 4gp6\visualstudio2013\c4\rush\rushtestworld.cpp(78): warning C4390: ';' : empty controlled statement found; is this the intent?
+  RushSelectPanel.cpp
+  RushPieceBase.cpp
+  RushLoad.cpp
+  RushGame.cpp
+  RushCommandAction.cpp
+  RushCameras.cpp
+  RushCameraNavigation.cpp
+  MouseInterface.cpp
+  GroundProperty.cpp
+  Generating Code...
+     Creating library ..\..\..\Rush.lib and object ..\..\..\Rush.exp
+  Rush.vcxproj -> I:\My Documents\School\New SFWR 4GP6\VisualStudio2013\C4\Rush\..\..\..\Rush.dll
